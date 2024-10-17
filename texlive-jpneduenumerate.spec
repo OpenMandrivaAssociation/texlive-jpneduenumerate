@@ -3,7 +3,7 @@ Version:	63893
 Release:	2
 Summary:	Enumerative expressions in Japanese education
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jpneduenumerate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jpneduenumerate
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jpneduenumerate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jpneduenumerate.doc.r%{version}.tar.xz
