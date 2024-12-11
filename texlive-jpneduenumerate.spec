@@ -1,6 +1,6 @@
 Name:		texlive-jpneduenumerate
-Version:	63893
-Release:	2
+Version:	72898
+Release:	1
 Summary:	Enumerative expressions in Japanese education
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jpneduenumerate
